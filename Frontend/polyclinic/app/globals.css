@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-content {
+    background-image: url('medicine_icon.svg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.link:hover
+{
+    color:gray;
+}
+
+.register{
+    width: 20%;
+    background-color: rgba(0,0,0, 0.5);
+    position: relative;
+    padding: 2% 1%;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    border-radius:25px;
+    height: 82%;
+}
+
+.login{
+    width: 20%;
+    background-color: rgba(0,0,0, 0.5);
+    position: relative;
+    padding: 2% 1%;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    border-radius: 5%;
+    height: 50%;
+}
+.back_login{
+    width: 100%;
+    background-color: rgba(41,49,51, 0.9);
+    height: 100%;
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+}
+.login_content{
+    position: relative;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;  
+    background-image: url("https://itsourcecode.com/wp-content/uploads/2019/04/hp-zdravotnictvi.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 100%;
+    padding-top: 30px;
+    gap: 30px 20px;
+}
+
+.card_button {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.card_title {
+    margin-right: 20px;
+    max-width: 80%;
+    white-space: normal;
+}
+
+.department_modal {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.region_modal {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.home_button {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 10%;
+
+}
+
+.modal {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    position: fixed;
+    display: flex;
+    transform: scale(0);
+    top: 0;
+    left: 0;
+    z-index: 1;
+    justify-content: right;
+}
+
+.modal.active{
+    transform: scale(1);
+}
+
+.modal_content{
+    margin-top: 56px;
+    margin-right: 27px;
+    padding: 17px 10px;
+    width: 120px;
+    height: 100px;
+    background-color:whitesmoke;
+    border-radius: 30px;
+    font-weight: 900;
+    text-align: center;
+    transform: scale(0);
+    transition: 0.2s all;
+    font-weight: bold;
+    font-family: Arial;
+    border: 2px solid black;
+}
+
+.modal_content.active{
+    transform: scale(1);
+}
