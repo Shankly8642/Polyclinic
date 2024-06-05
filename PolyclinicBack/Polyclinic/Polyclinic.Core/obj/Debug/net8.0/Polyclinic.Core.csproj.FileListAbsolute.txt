@@ -1,0 +1,11 @@
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\bin\Debug\net8.0\Polyclinic.Core.deps.json
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\bin\Debug\net8.0\Polyclinic.Core.dll
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\bin\Debug\net8.0\Polyclinic.Core.pdb
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.AssemblyInfoInputs.cache
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.AssemblyInfo.cs
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.csproj.CoreCompileInputs.cache
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.dll
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\refint\Polyclinic.Core.dll
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\Polyclinic.Core.pdb
+C:\Users\rbier\source\repos\Polyclinic\Polyclinic.Core\obj\Debug\net8.0\ref\Polyclinic.Core.dll
